@@ -1,2 +1,6 @@
 # Practice
-opening repository
+opening 
+just knowing about repositories
+pulling
+pushing
+merging
